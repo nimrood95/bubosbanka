@@ -17,7 +17,7 @@ p{
 #balkep{
   float: left;
   margin-right: 15px;
-  border: 1px #1D1D4E;
+  border: 1px #1D1D4E solid;
   width: 200px;
 }
 
@@ -25,6 +25,7 @@ p{
   float: right;
   width: 400px;
   margin: 10px;
+  border: 1px #1D1D4E solid;
 }
 
 table{
